@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_FloorText.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_GameMode.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_GameState.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_WallText.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_PlayerState.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/ThirdPerson/Blueprints/BP_Rock.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EJ/ZK7X2H0YOHH2LOQIAM8PD4.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2E/K6Z1LWYO6X33MZHO05DOQI.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/94/EMSOLWSKYGYPZJTO3HR0NQ.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_1 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+			]
+		}
+	]
+}
