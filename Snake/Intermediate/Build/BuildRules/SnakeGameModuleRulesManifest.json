@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ace\\Documents\\Unreal Projects\\SnakeGame\\Source\\SnakeGame\\SnakeGame.Build.cs",
+		"C:\\Users\\Ace\\Documents\\Unreal Projects\\SnakeGame\\Source\\SnakeGame.Target.cs",
+		"C:\\Users\\Ace\\Documents\\Unreal Projects\\SnakeGame\\Source\\SnakeGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
