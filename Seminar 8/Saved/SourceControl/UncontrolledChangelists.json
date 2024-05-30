@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_2 5.3/Content/MyGame/Blueprints/Core/BP_MyPlayerController.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_2 5.3/Content/MyGame/Blueprints/BP_HUD.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_2 5.3/Content/MyGame/Blueprints/UI/BP_HUD.uasset",
+				"C:/Users/Ace/Documents/Unreal Projects/CWork_2 5.3/Content/MyGame/Blueprints/Core/BP_MyGameInstance.uasset"
+			]
+		}
+	]
+}
