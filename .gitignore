@@ -1,0 +1,15 @@
+# Unreal Engine generated folders (rebuilt by the editor)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+**/Build/*/FileOpenOrder/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
