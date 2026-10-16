@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+ï»¿// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "MyHUD.h"
@@ -12,7 +12,7 @@ void AMyHUD::DrawHUD()
 
     if (bIsGameOver)
     {
-        FString GameOverText = TEXT("Èãðà îêîí÷åíà. Íàæìèòå Esc äëÿ âûõîäà.");
+        FString GameOverText = TEXT("Ð˜Ð³Ñ€Ð° Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½Ð°. ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Esc Ð´Ð»Ñ Ð²Ñ‹Ñ…Ð¾Ð´Ð°.");
         FVector2D TextSize;
         GetTextSize(GameOverText, TextSize.X, TextSize.Y, GEngine->GetLargeFont());
 

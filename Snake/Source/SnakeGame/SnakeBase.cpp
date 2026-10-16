@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+п»ї// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "SnakeBase.h"
@@ -66,7 +66,7 @@ void ASnakeBase::AddSnakeElement(int ElementsNum)
 		}
 		else
 		{
-			// Начальная позиция для первого элемента змейки
+			// РќР°С‡Р°Р»СЊРЅР°СЏ РїРѕР·РёС†РёСЏ РґР»СЏ РїРµСЂРІРѕРіРѕ СЌР»РµРјРµРЅС‚Р° Р·РјРµР№РєРё
 			NewLocation = GetActorLocation();
 		}
 
@@ -114,7 +114,7 @@ void ASnakeBase::Move()
 	SnakeElements[0]->AddActorWorldOffset(MovementVector);
 	SnakeElements[0]->ToggleCollision();
 
-	// Разрешаем изменение направления после обновления позиции
+	// Р Р°Р·СЂРµС€Р°РµРј РёР·РјРµРЅРµРЅРёРµ РЅР°РїСЂР°РІР»РµРЅРёСЏ РїРѕСЃР»Рµ РѕР±РЅРѕРІР»РµРЅРёСЏ РїРѕР·РёС†РёРё
 	bCanChangeDirection = true;
 }
 
@@ -130,15 +130,15 @@ void ASnakeBase::SnakeElementOverlap(ASnakeElementBase* OverlappedElement, AActo
 		{
 			IInteractableInterface->Interact(this, bIsFirst);
 
-			// Проверяем, является ли объект едой
+			// РџСЂРѕРІРµСЂСЏРµРј, СЏРІР»СЏРµС‚СЃСЏ Р»Рё РѕР±СЉРµРєС‚ РµРґРѕР№
 			if (Other->IsA<AFood>())
 			{
-				// Генерируем случайное число от 0 до 1
+				// Р“РµРЅРµСЂРёСЂСѓРµРј СЃР»СѓС‡Р°Р№РЅРѕРµ С‡РёСЃР»Рѕ РѕС‚ 0 РґРѕ 1
 				float RandomValue = FMath::FRand();
-				// Если случайное число меньше или равно 0.5 (50% вероятность)
+				// Р•СЃР»Рё СЃР»СѓС‡Р°Р№РЅРѕРµ С‡РёСЃР»Рѕ РјРµРЅСЊС€Рµ РёР»Рё СЂР°РІРЅРѕ 0.5 (50% РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ)
 				if (RandomValue <= 0.5f)
 				{
-					// Увеличиваем скорость змейки в 2 раза
+					// РЈРІРµР»РёС‡РёРІР°РµРј СЃРєРѕСЂРѕСЃС‚СЊ Р·РјРµР№РєРё РІ 2 СЂР°Р·Р°
 					ChangeMovementSpeed(2.0f);
 				}
 			}

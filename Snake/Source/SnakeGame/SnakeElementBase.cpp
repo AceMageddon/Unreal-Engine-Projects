@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+п»ї// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "SnakeElementBase.h"
@@ -53,11 +53,11 @@ void ASnakeElementBase::HandleBeginOverlap(UPrimitiveComponent* OverlappedCompon
 {
 	if (IsValid(SnakeOwner))
 	{
-		// Проверка на границу
+		// РџСЂРѕРІРµСЂРєР° РЅР° РіСЂР°РЅРёС†Сѓ
 		if (OtherActor->IsA(ABoundaryWall::StaticClass()))
 		{
 			SnakeOwner->Destroy();
-			// Здесь можно добавить логику перезапуска игры
+			// Р—РґРµСЃСЊ РјРѕР¶РЅРѕ РґРѕР±Р°РІРёС‚СЊ Р»РѕРіРёРєСѓ РїРµСЂРµР·Р°РїСѓСЃРєР° РёРіСЂС‹
 			return;
 		}
 
